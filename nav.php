@@ -1,4 +1,6 @@
 <?php
+include_once("config/env.php");
+
 function head($title){
     // Připojení
    
